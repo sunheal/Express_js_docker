@@ -1,0 +1,1 @@
+This is my first time building Docker image and run it into container. Please refer to my dev journal for my findings: https://beaded-packet-41f.notion.site/SDC-20220611-Docker-ize-and-Nodemon-an-express-app-755357671d8b45aea25a4b8f99f5a3d6.
